@@ -2,22 +2,42 @@ body{
     font-family: 'Dancing Script', 'cursiva', sans-serif;
     font-size: 14pt;
     background-color: rgb(165, 162, 158);
+    width: 500px;
 }
 img{
     border-radius: 0% 25% 0% 25%;
     width: 0 auto;
-    margin: 3%;
+    margin: auto 30%;
+
+    
+}
+h1{
+    font-size: 26pt;
+    text-align: center;
+    color: blue;
+    font-weight: 550;
 }
 legend{
     color: blue;
     text-align: left;
     font-weight: 550;
 }
+fieldset{
+    margin: 3%;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    background-color: rgb(204, 201, 197);
+    padding: 2%;
+    border-radius: 0% 25% 0% 25%;
+}
 .skills{
     background-color: rgb(221, 219, 216);
     text-align: center;
     width: 0 auto;
-    margin: 3%;
+    margin: auto;
     line-height: 1.25;
 }
 .quote{
@@ -27,6 +47,6 @@ legend{
     font-style: italic;
     text-align: center;
     width: 0 auto;
-    margin: 3%;
+    margin: auto;
     font-size: 12pt;
 }
