@@ -8,16 +8,25 @@ img{
     width: 0 auto;
     margin: 3%;
 }
+legend{
+    color: blue;
+    text-align: left;
+    font-weight: 550;
+}
 .skills{
     background-color: rgb(221, 219, 216);
     text-align: center;
     width: 0 auto;
     margin: 3%;
-
-
+    line-height: 1.25;
 }
-legend{
-    color: blue;
-    text-align: left;
-    font-weight: 550;
+.quote{
+    background-color: rgb(175, 174, 172);
+    line-height: 1.25;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    width: 0 auto;
+    margin: 3%;
+    font-size: 12pt;
 }
