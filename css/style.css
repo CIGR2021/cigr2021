@@ -1,0 +1,23 @@
+body{
+    font-family: 'Dancing Script', 'cursiva', sans-serif;
+    font-size: 14pt;
+    background-color: rgb(165, 162, 158);
+}
+img{
+    border-radius: 0% 25% 0% 25%;
+    width: 0 auto;
+    margin: 3%;
+}
+.skills{
+    background-color: rgb(221, 219, 216);
+    text-align: center;
+    width: 0 auto;
+    margin: 3%;
+
+
+}
+legend{
+    color: blue;
+    text-align: left;
+    font-weight: 550;
+}
