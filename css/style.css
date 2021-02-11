@@ -25,6 +25,9 @@ legend{
 fieldset{
     margin: 3%;
 }
+li{
+    text-align: left;
+}
 .links{
     text-decoration: none;
     color: black;
