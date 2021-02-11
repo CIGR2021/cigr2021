@@ -3,13 +3,12 @@ body{
     font-size: 14pt;
     background-color: rgb(165, 162, 158);
     width: 500px;
+    margin: 0% auto;
 }
 img{
     border-radius: 0% 25% 0% 25%;
     width: 0 auto;
     margin: auto 30%;
-
-    
 }
 h1{
     font-size: 26pt;
@@ -34,6 +33,7 @@ li{
     font-size: 12pt;
     background-color: rgb(204, 201, 197);
     padding: 2%;
+    margin: 2%;
     border-radius: 0% 25% 0% 25%;
 }
 .skills{
