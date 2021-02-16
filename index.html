@@ -3,22 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hora do Dia!</title>
+    <title>Modelo de Exercício</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body onload="carregar()">
+<body>
     <header>
-        <h1>Hora do Dia!</h1>
+        <h1>Quer saber em que Ano Nasceu?</h1>
     </header>
     <section>
-        <div class="msg">
-            Aqui vai aparecer a mensagem!
+        <div>
+            <p>Ano de Nascimento: <span>Valores 1905 entre 2020</span>
+                <input type="number" name="txtano" id="txtano">
+            </p>
+            <p>Sexo: 
+                <input type="radio" name="radsex" id="masc" checked>
+                <label for="masc">Masculino</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Feminino</label>
+            </p>
+            <p>
+                <input class="botao" type="button" value="Verificar" onclick="verificar()">
+            </p>
         </div>
-        <div class="foto">
-            <img class="imagem" src="img/manha.png" alt="foto do dia">
+        <hr>
+        <div class="res">
+           <h6>* Nota: Preencha os dados acima para ver o resultado!</h6>
         </div>
     </section>
     <footer>
+        <p> Aluno: Carlos - Acadêmico em FullStack</p>
         <p> &copy; Curso em Vídeo</p>
     </footer>
     <script src="js/script.js"></script>
