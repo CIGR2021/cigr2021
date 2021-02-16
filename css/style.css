@@ -1,55 +1,26 @@
 body{
-    font-family: 'Dancing Script', 'cursiva', sans-serif;
-    font-size: 14pt;
-    background-color: rgb(165, 162, 158);
-    width: 500px;
-    margin: 0% auto;
-}
-img{
-    border-radius: 0% 25% 0% 25%;
-    width: 0 auto;
-    margin: auto 30%;
-}
-h1{
-    font-size: 26pt;
+    background: rgba(18, 18, 206, 0.705);
+    font: normal 15pt Arial;
+    color: white;
     text-align: center;
-    color: blue;
-    font-weight: 550;
 }
-legend{
-    color: blue;
-    text-align: left;
-    font-weight: 550;
+header{
+
 }
-fieldset{
-    margin: 3%;
-}
-li{
-    text-align: left;
-}
-.links{
-    text-decoration: none;
+section{
+    padding: 1%;
+    background: white;
     color: black;
-    font-size: 12pt;
-    background-color: rgb(204, 201, 197);
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.61);
+}
+div{
     padding: 2%;
-    margin: 2%;
-    border-radius: 0% 25% 0% 25%;
-}
-.skills{
-    background-color: rgb(221, 219, 216);
     text-align: center;
-    width: 0 auto;
-    margin: auto;
-    line-height: 1.25;
 }
-.quote{
-    background-color: rgb(175, 174, 172);
-    line-height: 1.25;
-    font-weight: lighter;
+footer{
+    text-align: center;
     font-style: italic;
-    text-align: center;
-    width: 0 auto;
-    margin: auto;
-    font-size: 12pt;
 }
