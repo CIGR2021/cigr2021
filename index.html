@@ -2,38 +2,39 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modelo de Exercício</title>
+    
     <link rel="stylesheet" href="css/style.css">
+    
+    <link rel = "preconnect" href = "https://fonts.gstatic.com">
+    
+    <link href = "https://fonts.googleapis.com/css2? family = Dança + Script: wght @ 600 & display = swap "rel =" stylesheet ">
+    <title>Portifólio</title>
 </head>
 <body>
-    <header>
-        <h1>Quer saber em que Ano Nasceu?</h1>
-    </header>
-    <section>
-        <div>
-            <p>Ano de Nascimento: <span>Valores 1905 entre 2020</span>
-                <input type="number" name="txtano" id="txtano">
-            </p>
-            <p>Sexo: 
-                <input type="radio" name="radsex" id="masc" checked>
-                <label for="masc">Masculino</label>
-                <input type="radio" name="radsex" id="fem">
-                <label for="fem">Feminino</label>
-            </p>
-            <p>
-                <input class="botao" type="button" value="Verificar" onclick="verificar()">
-            </p>
-        </div>
-        <hr>
-        <div class="res">
-           <h6>* Nota: Preencha os dados acima para ver o resultado!</h6>
-        </div>
-    </section>
+    <h1>Carlos Henrique Pereira Vieira</h1>
+    <a href="index.html"><img src="imagens/foto3.jpg" alt="foto de Carlos Vieira" width="200px"></a>
+    <hr>
+    <fieldset class="skills">
+        <legend>Breve Descrição</legend>
+        <p> <strong>Brasileiro, moro em uma cidazinha com mais ou menos 30 mil habitantes, chamada Cândido Sales no estado da Bahia, Região Sudoeste, sou Técnico em Informática.</p>
+    </fieldset>
+    <fieldset class="quote">
+        <p>Sou apaixonado pela área de TI, gosto muito de estar na frente do computador, seja nos momentos de trabalho ou de lazer, gosto de assistir animes, de jogar RPG e também de brincar de desenvolver jogos em RPG Maker e estudar temas novos, gosto de cozinhar...,bem é isso!</p>
+    </fieldset>
+    <hr>
+    <fieldset class="skills">
+        <legend>Minhas Skills</legend>
+        <a class="links" href="pages/hardskills.html">Hard Skills</a> <a class="links" href="pages/softskills.html">Soft Skills</a>
+    </fieldset>
+    <hr>
     <footer>
-        <p> Aluno: Carlos - Acadêmico em FullStack</p>
-        <p> &copy; Aprendizado</p>
+        <fieldset class="skills">
+            <legend>* Criei para Aprendizado!</legend>
+            <a class="links" href="https://carlostiblog.wordpress.com" target="_blanc">Meu Blog</a>
+        </fieldset>
     </footer>
-    <script src="js/script.js"></script>
+    
 </body>
 </html>

@@ -1,49 +1,55 @@
 body{
-    background: blue;
-    font: normal 14pt Arial;
-    color: white;
-    padding: 1%;
+    font-family: 'Dancing Script', 'cursiva', sans-serif;
+    font-size: 14pt;
+    background-color: rgb(165, 162, 158);
+    width: 500px;
+    margin: 0% auto;
+}
+img{
+    border-radius: 0% 25% 0% 25%;
+    width: 0 auto;
+    margin: auto 30%;
 }
 h1{
-    margin:0 auto;
-    padding: 2%;
+    font-size: 26pt;
     text-align: center;
-    font-size: 25pt;
+    color: blue;
+    font-weight: 550;
 }
-section{
-    padding: 1%;
-    background: white;
+legend{
+    color: blue;
+    text-align: left;
+    font-weight: 550;
+}
+fieldset{
+    margin: 3%;
+}
+li{
+    text-align: left;
+}
+.links{
+    text-decoration: none;
     color: black;
-    border-radius: 10px;
-    width: 500px;
-    margin: 0 auto;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.61);
-    text-shadow: 0.1em 0.1em 0.2em rgb(107, 99, 99);
+    font-size: 12pt;
+    background-color: rgb(204, 201, 197);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 0% 25% 0% 25%;
 }
-.botao{
-    display: block;
-    margin: 0 auto;
-    width: 50%;
-    height: 40px;
-    text-align: "center";
-    padding: .5%;
-    font-size: 14pt;
-    border: none;
-    border-radius: 10px;
-    background-color: rgba(0, 0, 255, 0.836);
-    color: white;
-    text-shadow: 0.1em 0.1em 0.2em black;
-}
-span{
-    float: right;
-    margin-right: 1%;
-    margin-top: 1.5%;
-    font-size: 8pt;
-    font-style: italic;
-    text-shadow: 0.1em 0.1em 0.2em rgb(107, 99, 99);
-    color: rgb(0, 0, 0);
-}
-footer{
+.skills{
+    background-color: rgb(221, 219, 216);
     text-align: center;
+    width: 0 auto;
+    margin: auto;
+    line-height: 1.25;
+}
+.quote{
+    background-color: rgb(175, 174, 172);
+    line-height: 1.25;
+    font-weight: lighter;
     font-style: italic;
+    text-align: center;
+    width: 0 auto;
+    margin: auto;
+    font-size: 12pt;
 }
