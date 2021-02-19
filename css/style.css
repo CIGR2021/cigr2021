@@ -1,55 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Dancing Script', 'cursiva', sans-serif;
-    font-size: 14pt;
-    background-color: rgb(165, 162, 158);
-    width: 500px;
-    margin: 0% auto;
-}
-img{
-    border-radius: 0% 25% 0% 25%;
-    width: 0 auto;
-    margin: auto 30%;
+    font-size: 21px;
+    background-image: url(/imagens/foto2.jpg);
+    background-size: contain;
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 90%;
+    margin: auto;
+    max-width: 1200px;
+    min-width: 20%;
+    min-height: 480px;
 }
 h1{
-    font-size: 26pt;
+    margin-top: 10px;
+    font-size: 1.4em;
     text-align: center;
-    color: blue;
-    font-weight: 550;
+    color: rgb(27, 26, 26);
+    font-weight: 590;
+    box-shadow: 2px 1px 10px 2px rgb(66, 65, 65);
+    text-shadow: 2px 2px 2px rgba(100, 98, 98, 0.5);
+    padding: 1%;
+    display: flex;
+    position: relative;
+    float: top;
 }
-legend{
-    color: blue;
-    text-align: left;
-    font-weight: 550;
+img{
+    display: flex;
+    float: right;
+    margin-top: .5%;
+    box-shadow: 2px 1px 10px 2px rgb(66, 65, 65);
+    border-radius: 0% 25% 0% 25%;
+    width: 35%;
 }
-fieldset{
+nav fieldset{
+    margin: 0 auto;
+}
+.skills, .minhasskills{
+    float: left;
+    position: relative;
+    margin-right: 1.7%;
+    text-shadow: 2px 2px 3px rgba(5, 5, 5, 0.95);
+    color: white;
+    width: 60%;
+    font-size: 0.75em;
+}
+p{
+    margin: 5.5%;
+}
+.descrition{
+    background-color: rgba(10, 10, 10, 0.5);
+    font-size: 0.96em;
+    text-align: center;
+}
+.quote{
+    line-height: 1.25;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 1px 5px rgba(5, 5, 5, 0.3);
+    font-size: 0.65em;
     margin: 3%;
+    margin-bottom: 4%;
+}
+/* nav .skills .hardskills li{
+    clear: both;
+} */
+ul.minhasskills li{
+    list-style: none;
+    /* display: inline-flex; */
+    width: 305px;
+    text-align: center;
+}
+.hardskills, .softskills{
+    margin-left: 12%;
+    margin-right: 4%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    font-size: .8584655em;
 }
 li{
     text-align: left;
 }
 .links{
     text-decoration: none;
-    color: black;
-    font-size: 12pt;
-    background-color: rgb(204, 201, 197);
-    padding: 2%;
-    margin: 2%;
+    color: red;
+    background-color: rgba(240, 230, 140, 0.6);
+    font-size: 10pt;
+    padding: 4px;
     border-radius: 0% 25% 0% 25%;
+    text-shadow: 2px 2px 5px rgba(61, 59, 59, 0.5);
+    box-shadow: 2px 1px 5px 1px rgba(19, 18, 18, 1);
 }
-.skills{
-    background-color: rgb(221, 219, 216);
-    text-align: center;
-    width: 0 auto;
-    margin: auto;
-    line-height: 1.25;
+legend{
+    font-family: monospace;
+    text-shadow: 2px 1px 1px rgba(5, 5, 5, 0.7);
+    color: rgba(236, 228, 218, 0.4);
+    text-align: left;
+    margin-left: 3%;
+    padding: 1%;
+    font-weight: 800;
+    font-size: 10pt;
 }
-.quote{
-    background-color: rgb(175, 174, 172);
-    line-height: 1.25;
-    font-weight: lighter;
-    font-style: italic;
-    text-align: center;
-    width: 0 auto;
-    margin: auto;
-    font-size: 12pt;
+.footerskills{
+    display: flex;
+    position: relative;
+    float: left;
+    width: 90%;
+    text-shadow: 2px 2px 2px rgba(100, 98, 98, 0.5);
 }
