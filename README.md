@@ -17,7 +17,7 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
-**Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**
+**Falando sobre Coisas Pessoais:** | **_Talking about Personal Stuffs:_**
 <br />
 <br />
 
