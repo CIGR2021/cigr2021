@@ -19,17 +19,15 @@ Sou Técnico em Informática 👨🏽 Atualmente estudo desenvolvimento web na [
 - 🤔 Meu Interesse é Desenvolvimento Web; | - 🤔 My interest is Web Development;
 - 💼 Estou buscando uma certificação em Desenvolvimento de Software Web;
 <!-- - 💼 I'm looking for a certification in Web Software Development; -->
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-<!-- - 💬 Ask me about anything, I am happy to help; -->
-- 📫 Me contate envie um e-mail para appencigr@gmail.com;
-<!-- - 📫 Contact me send an email to appencigr@gmail.com; -->
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar; | - 💬 Ask me about anything, I am happy to help;
+- 📫 Me contate envie um e-mail para appencigr@gmail.com; | - 📫 Contact me send an email to appencigr@gmail.com;
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
 
 **Languages and Tools:** | **Languages and Tools:**
 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="60" src="https://iconscout.com/icon/git-18"></code>
+<code><img height="60" src="<a href="https://iconscout.com/icons/logo" target="_blank">Java script Logo Icon</a> by <a href="https://iconscout.com/contributors/unicons">Unicons Font</a> on <a href="https://iconscout.com">Iconscout</a>"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
