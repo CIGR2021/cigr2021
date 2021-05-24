@@ -21,6 +21,7 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 
 **Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**
 <br />
+<br />
 
 - 🤔 Meu Interesse é Desenvolvimento Web; | My interest is Web Development;
 - 💼 Estou buscando uma certificação em Desenvolvimento de Software Web;
@@ -32,7 +33,10 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 
 <br />
 <br />
+
 **Linguagens e Ferramentas:** | **Languages and Tools:**
+
+<br />
 <br />
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
