@@ -1,5 +1,4 @@
-### Hey 👋, I'm [Carlos Vieira!]
-<!-- (https://portfolio.callmemehdi.vercel.app/) -->
+### Hey 👋, I'm [Carlos Vieira!] <!-- (https://portfolio.callmemehdi.vercel.app/) -->
 
 <a href="https://www.linkedin.com/in/cigr/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,11 +10,11 @@
 <br />
 <br />
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Olá, sou ** Carlos Vieira **, ** Técnico em Informática **. Atualmente, estudo desenvolvimento web na Trybe.
+<img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**
 
 - 👨🏽 Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB);
 - 👨🏽 I am currently studying web development at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB);
@@ -30,12 +29,12 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
 
-**Languages and Tools:**  
+**Languages and Tools:** | **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!-- <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> -->
