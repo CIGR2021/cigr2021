@@ -13,13 +13,8 @@
 Olá, sou ** Carlos Vieira **, ** Técnico em Informática **. Atualmente, estudo desenvolvimento web na Trybe.
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
-
-**Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**
-| Tier | Developer Profile                                                                                                                                                |
+| **Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**                                                                                                                              |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
 | - 👨🏽 | Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB);|
 <!-- - 👨🏽 I am currently studying web development at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); -->
 | - 🤔 | Meu Interesse é Desenvolvimento Web;
