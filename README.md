@@ -25,7 +25,7 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
 
-**Languages and Tools:** | **Languages and Tools:**
+**Linguagens e Ferramentas:** | **Languages and Tools:**
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/733/733609.png"></code> <!-- GitHub -->
