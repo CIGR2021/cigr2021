@@ -19,7 +19,9 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
-**Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**                                                                                         
+**Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**
+<br />
+
 - 🤔 Meu Interesse é Desenvolvimento Web; | My interest is Web Development;
 - 💼 Estou buscando uma certificação em Desenvolvimento de Software Web;
 <!-- - 💼 I'm looking for a certification in Web Software Development; -->
@@ -31,6 +33,7 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 <br />
 <br />
 **Linguagens e Ferramentas:** | **Languages and Tools:**
+<br />
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/733/733609.png"></code> <!-- GitHub -->
