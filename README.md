@@ -10,11 +10,11 @@
 <br />
 <br />
 
-Olá, sou ** Carlos Vieira **, ** Técnico em Informática **. Atualmente, estudo desenvolvimento web na Trybe.
+Sou Técnico em Informática 👨🏽 Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); |
+
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
 **Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**                                                                                         
-- 👨🏽 Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB);|
 <!-- - 👨🏽 I am currently studying web development at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); -->
 - 🤔 Meu Interesse é Desenvolvimento Web;
 <!-- - 🤔 My interest is Web Development; -->
