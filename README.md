@@ -1,5 +1,7 @@
 # Olá 👋, Eu sou [Carlos Vieira!] <!-- (https://portfolio.callmemehdi.vercel.app/) -->
 
+<br />
+
 <a href="https://www.linkedin.com/in/cigr/">
   <img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
 </a>
@@ -25,6 +27,8 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 - 📫 Me contate envie um e-mail para appencigr@gmail.com; | Contact me send an email to appencigr@gmail.com;
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
+
+<br />
 <br />
 **Linguagens e Ferramentas:** | **Languages and Tools:**
 
@@ -34,6 +38,6 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> <!-- CSS3 -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/1199/1199124.png"></code> <!-- Java Script -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/1260/1260667.png"></code> <!-- React -->
-<!-- <code><img height="60" src=""></code> <!-- Java Script --> -->
+<!-- <code><img height="60" src=""></code> <!-- Java Script -->
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
