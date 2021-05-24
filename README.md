@@ -23,18 +23,18 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 <br />
 <br />
 
-- 🤔 Meu Interesse é Desenvolvimento Web; | My interest is Web Development;
+- 🤔 Meu Interesse é Desenvolvimento Web; | *My interest is Web Development*;
 - 💼 Estou buscando uma certificação em Desenvolvimento de Software Web;
 <!-- - 💼 I'm looking for a certification in Web Software Development; -->
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar; | Ask me about anything, I am happy to help;
-- 📫 Me contate envie um e-mail para appencigr@gmail.com; | Contact me send an email to appencigr@gmail.com;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar; | *Ask me about anything, I am happy to help*;
+- 📫 Me contate envie um e-mail para appencigr@gmail.com; | *Contact me send an email to appencigr@gmail.com*;
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
 
 <br />
 <br />
 
-**Linguagens e Ferramentas:** | **Languages and Tools:**
+**Linguagens e Ferramentas:** | **_Languages and Tools:_**
 
 <br />
 <br />
