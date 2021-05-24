@@ -1,5 +1,4 @@
 # Olá 👋, Eu sou [Carlos Vieira!] <!-- (https://portfolio.callmemehdi.vercel.app/) -->
-
 <br />
 <br />
 
@@ -11,7 +10,7 @@
   <img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
 </a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
-
+<br />
 <br />
 <br />
 
