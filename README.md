@@ -8,6 +8,7 @@
   <img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
 </a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
+
 <br />
 <br />
 
@@ -17,14 +18,14 @@ Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
 **Falando sobre Coisas Pessoais:** | **Talking about Personal Stuffs:**                                                                                         
-- 🤔 Meu Interesse é Desenvolvimento Web; | - 🤔 My interest is Web Development;
+- 🤔 Meu Interesse é Desenvolvimento Web; | My interest is Web Development;
 - 💼 Estou buscando uma certificação em Desenvolvimento de Software Web;
 <!-- - 💼 I'm looking for a certification in Web Software Development; -->
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar; | - 💬 Ask me about anything, I am happy to help;
-- 📫 Me contate envie um e-mail para appencigr@gmail.com; | - 📫 Contact me send an email to appencigr@gmail.com;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar; | Ask me about anything, I am happy to help;
+- 📫 Me contate envie um e-mail para appencigr@gmail.com; | Contact me send an email to appencigr@gmail.com;
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 
-
+<br />
 **Linguagens e Ferramentas:** | **Languages and Tools:**
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
