@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Carlos Vieira!] <!-- (https://portfolio.callmemehdi.vercel.app/) -->
+# Olá 👋, Eu sou [Carlos Vieira!] <!-- (https://portfolio.callmemehdi.vercel.app/) -->
 
 <a href="https://www.linkedin.com/in/cigr/">
   <img align="left" alt="Mehdi's LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -43,6 +43,6 @@ Olá, sou ** Carlos Vieira **, ** Técnico em Informática **. Atualmente, estud
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+<!-- ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true) -->
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
