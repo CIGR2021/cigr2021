@@ -1,16 +1,17 @@
 # Olá 👋, Eu sou [Carlos Vieira!] <!-- (https://portfolio.callmemehdi.vercel.app/) -->
 
 <a href="https://www.linkedin.com/in/cigr/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
 </a>
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 <a href="https://www.facebook.com/cigr">
-  <img align="left" alt="Carlos Vieira" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
 </a>
-
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
 <br />
 <br />
 
-Sou Técnico em Informática 👨🏽 Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); | 
+Sou Técnico em Informática, 👨🏽 atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); | 
 <!-- - 👨🏽 I am currently studying web development at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); -->
 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
@@ -26,20 +27,12 @@ Sou Técnico em Informática 👨🏽 Atualmente estudo desenvolvimento web na [
 
 **Languages and Tools:** | **Languages and Tools:**
 
-<code><img height="60" src="https://iconscout.com/icon/git-18"></code>
-<code><img height="60" src="<a href="https://iconscout.com/icons/logo" target="_blank">Java script Logo Icon</a> by <a href="https://iconscout.com/contributors/unicons">Unicons Font</a> on <a href="https://iconscout.com">Iconscout</a>"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<!-- <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
-
-<!-- ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true) -->
+<code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
+<code><img height="60" src="https://image.flaticon.com/icons/png/512/733/733609.png"></code> <!-- GitHub -->
+<code><img height="60" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code> <!-- HTML5 -->
+<code><img height="60" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> <!-- CSS3 -->
+<code><img height="60" src="https://image.flaticon.com/icons/png/512/1199/1199124.png"></code> <!-- Java Script -->
+<code><img height="60" src="https://image.flaticon.com/icons/png/512/1260/1260667.png"></code> <!-- React -->
+<!-- <code><img height="60" src=""></code> <!-- Java Script --> -->
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
