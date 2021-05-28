@@ -1,7 +1,9 @@
-#  Olá 👋, Eu sou :man: Carlos Vieira! <!-- (https://portfolio.callmemehdi.vercel.app/) --><a href="https://www.linkedin.com/in/cigr/"><img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" /></a><a href="https://www.facebook.com/cigr"><img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" /></a>
+#  Olá 👋, Eu sou :man: Carlos Vieira! <!-- (https://portfolio.callmemehdi.vercel.app/) -->
+<p align="left"> <a href="https://www.linkedin.com/in/cigr/"><img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" /></a><a href="https://www.facebook.com/cigr"><img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cigr2021" alt="Carlos Vieira" /> </p>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
-
+<br />
 :writing_hand: Brasileiro, moro em uma cidazinha com mais ou menos 30 mil habitantes, chamada Cândido Sales no estado da Bahia, Região Sudoeste, sou Técnico em Informática e estudante de Desenvolvimento Web na Trybe. Sou apaixonado pela área de TI, gosto muito de estar na frente do computador, seja nos momentos de trabalho ou de lazer, gosto de assistir animes, de jogar RPG e também de brincar de desenvolver jogos em RPG Maker e estudar temas novos.<br />
 `Brazilian, I live in a small town with about 30 thousand inhabitants, called Cândido Sales in the state of Bahia, Southwest Region, I am a Computer Technician and a Web Development student at Trybe. I am passionate about the IT area, I love being in front of the computer, whether at work or at leisure, I like to watch anime, play RPG and also play developing games in RPG Maker and study new themes.`
 ***
@@ -33,7 +35,5 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cigr2021&count_private=true&show_icons=true&theme=graywhite&icon_color=e85d04&title_color=e85d04" alt="Carlos Vieira" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cigr2021" alt="Carlos Vieira" /> </p>
 
 >⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi) 
