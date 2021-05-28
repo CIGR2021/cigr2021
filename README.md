@@ -1,4 +1,4 @@
-#  Olá 👋, Eu sou :man: Carlos Vieira! <!-- (https://portfolio.callmemehdi.vercel.app/) -->
+<h1 font-size="32"> Olá 👋, Eu sou :man: Carlos Vieira! </h1> <!-- (https://portfolio.callmemehdi.vercel.app/) -->
 <p align="left"> <a href="https://www.linkedin.com/in/cigr/"><img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" /></a><a href="https://www.facebook.com/cigr"><img align="left" alt="Carlos Vieira" width="40px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" /></a> </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cigr2021" alt="Carlos Vieira" /> </p>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
@@ -8,9 +8,11 @@
 
 `Brazilian, I live in a small town with about 30 thousand inhabitants, called Cândido Sales in the state of Bahia, Southwest Region, I am a Computer Technician and a Web Development student at Trybe. I am passionate about the IT area, I love being in front of the computer, whether at work or at leisure, I like to watch anime, play RPG and also play developing games in RPG Maker and study new themes.`
 ___
-<img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 
-#### Falando sobre Coisas Pessoais: `|` _Talking about Personal Stuffs:_
+| Falando sobre Coisas Pessoais: | *`Talking about Personal Stuffs:`* |
+| --- | --- |
+
+<img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 <br />
 
 + :man: Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); `I am currently studying web development at Trybe;`
@@ -20,7 +22,8 @@ ___
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 <br />
 
-#### Linguagens e Ferramentas: `|` _Languages and Tools:_
+| Linguagens e Ferramentas: | *`Languages and Tools:`* |
+| --- | --- |
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/733/733609.png"></code> <!-- GitHub -->
