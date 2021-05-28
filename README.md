@@ -31,10 +31,10 @@ ___
 <!-- <code><img height="60" src=""></code> <!-- Java Script -->
 ___
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cigr2021&layout=compact&theme=graywhite&title_color=e85d04" alt="Carlos Vieira" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cigr2021&layout=compact&theme=graywhite&title_color=e85d04" alt="Carlos Vieira" />
 </p>
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cigr2021&count_private=true&show_icons=true&theme=graywhite&icon_color=e85d04&title_color=e85d04" alt="Carlos Vieira" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cigr2021&count_private=true&show_icons=true&theme=graywhite&icon_color=e85d04&title_color=e85d04" alt="Carlos Vieira" />
 </p>
 
 >⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi) 
