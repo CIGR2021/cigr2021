@@ -6,24 +6,24 @@
 <br />
 :writing_hand: Brasileiro, moro em uma cidazinha com mais ou menos 30 mil habitantes, chamada Cândido Sales no estado da Bahia, Região Sudoeste, sou Técnico em Informática e estudante de Desenvolvimento Web na Trybe. Sou apaixonado pela área de TI, gosto muito de estar na frente do computador, seja nos momentos de trabalho ou de lazer, gosto de assistir animes, de jogar RPG e também de brincar de desenvolver jogos em RPG Maker e estudar temas novos.<br />
 
-`Brazilian, I live in a small town with about 30 thousand inhabitants, called Cândido Sales in the state of Bahia, Southwest Region, I am a Computer Technician and a Web Development student at Trybe. I am passionate about the IT area, I love being in front of the computer, whether at work or at leisure, I like to watch anime, play RPG and also play developing games in RPG Maker and study new themes.`
+<!--`Brazilian, I live in a small town with about 30 thousand inhabitants, called Cândido Sales in the state of Bahia, Southwest Region, I am a Computer Technician and a Web Development student at Trybe. I am passionate about the IT area, I love being in front of the computer, whether at work or at leisure, I like to watch anime, play RPG and also play developing games in RPG Maker and study new themes.`-->
 ___
 
-| Falando sobre Coisas Pessoais: | *`Talking about Personal Stuffs:`* |
-| --- | --- |
+| Falando sobre Coisas Pessoais: | <!--*`Talking about Personal Stuffs:`* |-->
+| --- | <!----- |-->
 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 <br />
 
-+ :man: Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); `I am currently studying web development at Trybe;`
-+ 🤔 Meu Interesse é Desenvolvimento Web; `My interest is Web Development;`
-- 💼 Estou buscando uma certificação em Desenvolvimento de Software Web; `I'm looking for a certification in Web Software Development;`
-- 📫 Me contate envie um e-mail para appencigr@gmail.com; `Contact me send an email to appencigr@gmail.com;`
++ :man: Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); <!--`I am currently studying web development at Trybe;`-->
++ 🤔 Meu Interesse é Desenvolvimento Web; <!--`My interest is Web Development;`-->
+- 💼 Estou buscando uma certificação em Desenvolvimento de Software Web; <!--`I'm looking for a certification in Web Software Development;`-->
+- 📫 Me contate envie um e-mail para appencigr@gmail.com; <!--`Contact me send an email to appencigr@gmail.com;`-->
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 <br />
 
-| Linguagens e Ferramentas: | *`Languages and Tools:`* |
-| --- | --- |
+| Linguagens e Ferramentas: | <!--*`Languages and Tools:`* |-->
+| --- | <!----- |-->
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/733/733609.png"></code> <!-- GitHub -->
