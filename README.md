@@ -10,7 +10,7 @@
 ___
 
 | Falando sobre Coisas Pessoais: | <!--*`Talking about Personal Stuffs:`* |-->
-| --- | <!----- |-->
+| --- | <!-- --- | -->
 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 <br />
