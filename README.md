@@ -9,8 +9,8 @@
 <!--`Brazilian, I live in a small town with about 30 thousand inhabitants, called Cândido Sales in the state of Bahia, Southwest Region, I am a Computer Technician and a Web Development student at Trybe. I am passionate about the IT area, I love being in front of the computer, whether at work or at leisure, I like to watch anime, play RPG and also play developing games in RPG Maker and study new themes.`-->
 ___
 
-| Falando sobre Coisas Pessoais: | <!--*`Talking about Personal Stuffs:`* |-->
-| --- | <!-- --- | -->
+| Falando sobre Coisas Pessoais: | *`Talking about Personal Stuffs:`* |
+| --- | --- |
 
 <img align="right" alt="GIF" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 <br />
@@ -22,8 +22,8 @@ ___
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 <br />
 
-| Linguagens e Ferramentas: | <!--*`Languages and Tools:`* |-->
-| --- | <!----- |-->
+| Linguagens e Ferramentas: | *`Languages and Tools:`* |
+| --- | --- |
 
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/4494/4494740.png"></code> <!-- Git -->
 <code><img height="60" src="https://image.flaticon.com/icons/png/512/733/733609.png"></code> <!-- GitHub -->
