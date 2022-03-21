@@ -1,5 +1,5 @@
 <h1 font-size="32"> Olá 👋, Eu sou :man: Carlos Vieira! </h1> <!-- (https://portfolio.callmemehdi.vercel.app/) -->
-<p align="left"> <a href="https://www.linkedin.com/in/cigr/"><img align="left" alt="Carlos Vieira" width="40px" src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626273.png?token=exp=1647120377~hmac=8825f3882ff408ddee4fad40f1008354" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/cigr/"><img align="left" alt="Carlos Vieira" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cigr2021" alt="Carlos Vieira" /> </p>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
@@ -26,7 +26,7 @@ ___
 | --- | --- |
 
 <!-- Git --> <!-- GitHub --> <!-- HTML5 --> <!-- CSS3 --> <!-- Java Script --> <!-- React -->
-| <img height="60" src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494748.png?token=exp=1647120494~hmac=4d789f067e1edb01d3847b9007ccd1a3"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/270/270798.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> | <img height="60" src="https://cdn-icons.flaticon.com/png/128/2351/premium/2351891.png?token=exp=1647120819~hmac=488dd6e4fa68bf485a248d0cd4e7e049"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png"> |
+| <img height="60" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/270/270798.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> | <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png"> |
 | --- | --- | --- | --- | --- | --- |
 
 <!-- <code><img height="60" src=""></code> <!-- Java Script -->
