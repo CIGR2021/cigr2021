@@ -12,12 +12,12 @@ ___
 | Falando sobre Coisas Pessoais: | *`Talking about Personal Stuffs:`* |
 | --- | --- |
 
-<img align="right" alt="GIF" width="30%" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
+<img align="right" alt="GIF" width="60%" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 <br />
 
-:man: Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwna2FBhDPARIsACAEc_UVb5HzSq-BUzzrOsBX1MAppUB0NC_-w8oIPb5nRqN48ZZ2fUHvId4aAmHfEALw_wcB); <!--`I am currently studying web development at Trybe;`-->
-🤔 Meu Interesse é Desenvolvimento Web; <!--`My interest is Web Development;`-->
-💼 Estou buscando uma certificação em Desenvolvimento de Software Web; <!--`I'm looking for a certification in Web Software Development;`-->
+:man: Atualmente trabalho como Bolsista no Instituto SENAI de Inovação em Sistemas Embarcados - Desenvolvedor FrontEnd (com enfase em android).
+<!-- 🤔 Meu Interesse é Desenvolvimento Web; `My interest is Web Development;`-->
+<!-- 💼 Estou buscando uma certificação em Desenvolvimento de Software Web; `I'm looking for a certification in Web Software Development;`-->
 📫 Me contate enviando um e-mail para appencigr@gmail.com; <!--`Contact me send an email to appencigr@gmail.com;`-->
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
 <br />
@@ -25,9 +25,9 @@ ___
 | Linguagens e Ferramentas: | *`Languages and Tools:`* |
 | --- | --- |
 
-<!-- Git --> <!-- GitHub --> <!-- HTML5 --> <!-- CSS3 --> <!-- Java Script --> <!-- React -->
-| <img height="60" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/270/270798.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> | <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png"> |
-| --- | --- | --- | --- | --- | --- |
+<!-- Git --> <!-- GitHub --> <!-- HTML5 --> <!-- CSS3 --> <!-- Java Script --> <!-- React --> <!-- React Native -->
+| <img height="60" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/270/270798.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> | <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png"> |
+| --- | --- | --- | --- | --- | --- | --- |
 
 <!-- <code><img height="60" src=""></code> <!-- Java Script -->
 ___
