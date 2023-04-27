@@ -25,9 +25,9 @@ ___
 | Linguagens e Ferramentas: | *`Languages and Tools:`* |
 | --- | --- |
 
-<!-- Git --> <!-- GitHub --> <!-- HTML5 --> <!-- CSS3 --> <!-- Java Script --> <!-- React --> <!-- React Native -->
-| <img height="60" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/270/270798.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> | <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png"> |
-| --- | --- | --- | --- | --- | --- | --- |
+<!-- Git --> <!-- GitHub --> <!-- HTML5 --> <!-- CSS3 --> <!-- Sass --> <!-- Java Script --> <!-- TypeScript --> <!-- React --> <!-- React Native -->
+| <img height="60" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/270/270798.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"> | <img height="60" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/sass_alt_logo_icon_144910.png"> | <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"> | <img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_icon_130108.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png"> | <img height="60" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png"> |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 <!-- <code><img height="60" src=""></code> <!-- Java Script -->
 ___
