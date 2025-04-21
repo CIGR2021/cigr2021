@@ -1,4 +1,10 @@
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" />
+</p>
+
 <h1 align="center">Olá 👋, eu sou o Carlos Vieira!</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/cigr/" target="_blank">
     <img alt="LinkedIn" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
@@ -13,21 +19,23 @@
 
 ### 👨‍💻 Sobre mim
 
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+
 Sou **Carlos Vieira**, Técnico em Informática e estudante de **Desenvolvimento Web** pela [Trybe](https://www.betrybe.com/). Moro em **Cândido Sales/BA**, uma cidade acolhedora do interior com cerca de 30 mil habitantes.
 
-Sou apaixonado por tecnologia, animes, RPG, criação de jogos no **RPG Maker** e aprender coisas novas todos os dias.
+💡 Sou curioso por natureza, apaixonado por tecnologia, animes, RPG, e nas horas vagas, brinco de criar jogos no **RPG Maker**.
 
 ---
 
-### 🚀 Buscando oportunidade
+### 🚀 Em busca de oportunidade
 
-Atualmente, estou em busca de **recolocação no mercado de trabalho** como:
+Atualmente estou disponível para oportunidades como:
 
-- Estágio / Júnior Front-End (React, React Native)
-- Estágio / Júnior Back-End (Node.js)
-- Trainer ou Trainee em Desenvolvimento Web FullStack
+- 👨‍💻 Estágio ou Júnior - **Front-End (React, React Native)**
+- 🧠 Estágio ou Júnior - **Back-End (Node.js)**
+- 📈 Programas Trainee na área de **Desenvolvimento Web FullStack**
 
-📫 Você pode me contatar: **appencigr@gmail.com**
+📫 Me mande um alô: **appencigr@gmail.com**
 
 ---
 
@@ -56,9 +64,12 @@ Atualmente, estou em busca de **recolocação no mercado de trabalho** como:
 
 ---
 
-### 👀 Fun fact
-Gosto de misturar minha paixão por games e tecnologia criando mini jogos no RPG Maker nos tempos livres! 🎮
+### 🎮 Curiosidade Nerd
+
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
+
+Nos tempos livres, adoro explorar a criatividade criando joguinhos no **RPG Maker**, além de curtir animes e RPGs de mesa. A mente não para! 🧙‍♂️
 
 ---
 
-<sub>⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)</sub>
+<sub>⭐️ Baseado no template de [CallmeMehdi](https://github.com/CallmeMehdi)</sub>
