@@ -15,7 +15,7 @@ ___
 <img align="right" alt="GIF" width="60%" src="https://www.drenweb.com.br/assets/images/drenweb-artes.gif" />
 <br />
 
-:man: Atualmente trabalho como Bolsista no Instituto SENAI de Inovação em Sistemas Embarcados - Desenvolvedor FrontEnd (com enfase em android).
+:man: Atualmente estou em busca de recolocação no mercado de trabalho, Desenvolvedor FrontEnd estágio, trainer, júnior ou pleno(React, React Native, etc) ou BackEnd - estágio, trainer ou júnior.
 <!-- 🤔 Meu Interesse é Desenvolvimento Web; `My interest is Web Development;`-->
 <!-- 💼 Estou buscando uma certificação em Desenvolvimento de Software Web; `I'm looking for a certification in Web Software Development;`-->
 📫 Me contate enviando um e-mail para appencigr@gmail.com; <!--`Contact me send an email to appencigr@gmail.com;`-->
