@@ -1,10 +1,11 @@
 <!-- Banner animado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" />
-</p>
-
 <h1 align="center">Olá 👋, eu sou o Carlos Vieira!</h1>
-
+<p align="center">
+  <img src="https://github.com/CIGR2021/cigr2021/blob/main/imagens/banner2.png" width="800" />
+    <!-- <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" />
+  </p> -->
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/cigr/" target="_blank">
     <img alt="LinkedIn" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
