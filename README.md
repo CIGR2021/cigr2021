@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
 
-Sou **Carlos Vieira**, Técnico em Informática e estudante de **Analise e Desenvolvimento de Sistemas** pela [PUC Minas Campus Barreiro](pucminas.br). Moro em **Cândido Sales/BA**, uma cidade acolhedora do interior com cerca de 30 mil habitantes.
+Sou **Carlos Vieira**, Técnico em Informática e estudante de **Analise e Desenvolvimento de Sistemas** pela [PUC Minas Campus Barreiro](www.pucminas.br). Moro em **Cândido Sales/BA**, uma cidade acolhedora do interior com cerca de 30 mil habitantes.
 
 💡 Sou curioso por natureza, apaixonado por tecnologia, animes, RPG, e nas horas vagas, brinco de criar jogos no **RPG Maker**.
 
